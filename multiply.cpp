@@ -1,6 +1,5 @@
 #include<iostream>
-int main()
+int multiply(float x, float y)
 {
-	std::cout<<"intialized\n";
-	return 0;
+    return x * y;
 }
